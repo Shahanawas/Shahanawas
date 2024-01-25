@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahanawas" alt="shahanawas" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shahanawas100" target="blank"><img src="https://img.shields.io/twitter/follow/shahanawas100?logo=twitter&style=for-the-badge" alt="shahanawas100" /></a> </p>
-
+<a href="https://app.daily.dev/newas"><img src="https://api.daily.dev/devcards/0c4b884061b84e379e67a14e8743fd82.png?r=04c" width="400" alt="Shahanewas's Dev Card"/></a>
 - 🔭 I’m currently working on [Frontend Web development Project](https://teabalater.com/)
 
 - 🌱 I’m currently learning **Wordpress , Laravel, Django,**
